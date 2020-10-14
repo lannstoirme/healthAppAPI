@@ -1,28 +1,28 @@
 ﻿<Properties StartupConfiguration="{DE0D8EA3-4A86-4BCB-89A5-EB9D3637DAB4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HealthApp/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HealthApp/Controllers/VitalsController.cs">
     <Files>
       <File FileName="HealthApp/Models/User.cs" Line="1" Column="1" />
       <File FileName="HealthApp/Models/Vitals.cs" />
-      <File FileName="HealthApp/Services/UserService.cs" Line="1" Column="1" />
-      <File FileName="HealthApp/Services/VitalService.cs" Line="6" Column="29" />
-      <File FileName="HealthApp/appsettings.json" Line="2" Column="17" />
-      <File FileName="HealthApp/Models/HealthAppDatabaseSettings.cs" Line="24" Column="40" />
+      <File FileName="HealthApp/Services/UserService.cs" />
+      <File FileName="HealthApp/Services/VitalService.cs" />
+      <File FileName="HealthApp/appsettings.json" />
+      <File FileName="HealthApp/Models/HealthAppDatabaseSettings.cs" />
       <File FileName="HealthApp/Controllers/UserController.cs" />
-      <File FileName="HealthApp/Controllers/VitalsController.cs" />
-      <File FileName="HealthApp/Program.cs" Line="1" Column="1" />
-      <File FileName="HealthApp/Startup.cs" Line="67" Column="1" />
-      <File FileName="HealthApp/Properties/launchSettings.json" Line="15" Column="32" />
+      <File FileName="HealthApp/Controllers/VitalsController.cs" Line="1" Column="1" />
+      <File FileName="HealthApp/Program.cs" />
+      <File FileName="HealthApp/Startup.cs" />
+      <File FileName="HealthApp/Properties/launchSettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HealthApp" expanded="True">
             <Node name="HealthApp" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="VitalsController.cs" selected="True" />
               </Node>
-              <Node name="Services" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
